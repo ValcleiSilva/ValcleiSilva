@@ -1,16 +1,41 @@
-### Hi there 👋
+# Valclei da Silva Ribeiro
 
-<!--
-**ValcleiSilva/ValcleiSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Educação
 
-Here are some ideas to get you started:
+- **Engenharia de Software**
+  - **Instituição:** Universidade Leonardo Da Vinci (UNIASSELVI)
+  - **Previsão de Conclusão:** 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Cursos Complementares
+
+- **.NET Developers**  
+  - **Plataforma:** Digital Innovation One
+  - **Status:** Em andamento
+
+- **Desenvolvimento C#**
+  - **Instrutor:** Nélio Alves
+  - **Plataforma:** Udemy
+  - **Status:** Em andamento
+
+## 📚 Interesses Acadêmicos
+
+- Desenvolvimento Mobile
+- Desenvolvimento Cloud
+
+## 🌱 Estou aprendendo
+
+- Versionamento de código com Git e GitHub
+- Framework Xamarin para desenvolvimento mobile
+
+## 💼 Objetivos Profissionais
+
+- Aprofundar conhecimentos em desenvolvimento de aplicações mobile e cloud.
+- Contribuir para projetos open-source na área de mobile.
+
+## 📈 GitHub Stats
+
+![Valclei's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValcleiSilva&show_icons=true)
+
+## 📫 Como me encontrar
+
+- **GitHub:** [ValcleiSilva](https://github.com/ValcleiSilva)
